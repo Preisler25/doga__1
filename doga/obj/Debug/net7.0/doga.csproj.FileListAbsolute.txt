@@ -1,0 +1,15 @@
+/Users/Preisler/Projects/doga/doga/bin/Debug/net7.0/doga
+/Users/Preisler/Projects/doga/doga/bin/Debug/net7.0/doga.deps.json
+/Users/Preisler/Projects/doga/doga/bin/Debug/net7.0/doga.runtimeconfig.json
+/Users/Preisler/Projects/doga/doga/bin/Debug/net7.0/doga.dll
+/Users/Preisler/Projects/doga/doga/bin/Debug/net7.0/doga.pdb
+/Users/Preisler/Projects/doga/doga/obj/Debug/net7.0/doga.csproj.AssemblyReference.cache
+/Users/Preisler/Projects/doga/doga/obj/Debug/net7.0/doga.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Preisler/Projects/doga/doga/obj/Debug/net7.0/doga.AssemblyInfoInputs.cache
+/Users/Preisler/Projects/doga/doga/obj/Debug/net7.0/doga.AssemblyInfo.cs
+/Users/Preisler/Projects/doga/doga/obj/Debug/net7.0/doga.csproj.CoreCompileInputs.cache
+/Users/Preisler/Projects/doga/doga/obj/Debug/net7.0/doga.dll
+/Users/Preisler/Projects/doga/doga/obj/Debug/net7.0/refint/doga.dll
+/Users/Preisler/Projects/doga/doga/obj/Debug/net7.0/doga.pdb
+/Users/Preisler/Projects/doga/doga/obj/Debug/net7.0/doga.genruntimeconfig.cache
+/Users/Preisler/Projects/doga/doga/obj/Debug/net7.0/ref/doga.dll
